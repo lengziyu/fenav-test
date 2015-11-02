@@ -1,0 +1,26 @@
+[
+	{
+	"contentPic" : "src/images/index/p1/group5/1.jpg",
+	"contentH3" : "Jquery 中文API",
+	"contentH5" : "jQuery 是一个高效、精简并且功能丰富的 JavaScript 工具库。它提供的 API 易于使用且兼容众多浏览器，这让诸如 HTML 文档遍历和操作、事件处理、动画和 Ajax 操作更加简单",
+	"contentUrl" : "http://jquery123.com/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group5/2.jpg",
+	"contentH3" : "React.js 中文网",
+	"contentH5" : "用于构建用户界面的Javascript库 ",
+	"contentUrl" : "http://reactjs.cn/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group5/3.jpg",
+	"contentH3" : "Vue.js 中文网",
+	"contentH5" : "是一个用于创建 Web 交互界面的库；它让你通过简单而灵活的 API 创建由数据驱动的 UI 组件 ",
+	"contentUrl" : "http://cn.vuejs.org/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group5/4.jpg",
+	"contentH3" : "Angular.js 中文网",
+	"contentH5" : "AngularJS是为了克服HTML在构建应用上的不足而设计的",
+	"contentUrl" : "http://www.apjs.net/"
+	}
+]

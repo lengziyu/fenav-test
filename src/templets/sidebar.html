@@ -1,0 +1,9 @@
+<div class="sidebar-head">前端技能导航</div>
+<div class="sidebar-nav">
+	<div class="dropdown-toggle"><a href=""></a></div>
+	<ul class="feed-list"  ng-controller="sidebarNavController">
+		<li class="feed-list-item"  ng-repeat="subject in student.subjects">
+			<a href="{{ subject.url }}">{{ subject.name }}</a>
+		</li>
+	</ul>
+</div>

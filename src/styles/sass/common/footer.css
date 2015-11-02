@@ -1,0 +1,17 @@
+footer {
+  position: static;
+  padding: 16px 20px;
+  background-color: #e8e8e8;
+  border-top: 1px solid #d0d0d0;
+  font-size: 14px;
+  text-align: center;
+  color: #5d5d5d;
+}
+
+footer p {
+  line-height: 24px;
+}
+
+footer a {
+  padding: 0 8px;
+}

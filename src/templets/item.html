@@ -1,0 +1,42 @@
+<div class="feed-container">
+	<div class="mainer-head">
+		<div class="mainer-head-wrap">
+			<h2>{{ message }} </h2>
+			<div class="filter">
+				<span class="filter-type">
+					排序：
+				</span>
+				<ul class="list">
+					<li class="active"><a href="">最新</a></li>
+					<li><a href="">最热</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<ul class="mainer-items">
+		<li class="mainer-item" ng-repeat="item in items">
+			<div class="pic">
+				<a href="{{item.contentUrl}}"><img src="{{item.contentPic}}" alt=""></a>
+			</div>
+			<div class="info">
+				<h3 class="item-title"><a href="">{{item.contentH3}}</a></h3>
+				<div class="item-words">
+					<p>{{item.contentH5}}</p>
+				</div>
+				<div class="controls">
+					<div class="user">冷子欲</div>
+					<div class="counts">
+						<div class="feed-fav">
+							<i class="icon icon-fav"></i>
+							<span>44</span>
+						</div>
+						<div class="feed-view">
+							<i class="icon icon-view"></i>
+							<span>2444</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div>

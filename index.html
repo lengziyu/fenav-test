@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>前端导航-为前端而生</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="description" content="内容">
+	<meta name="keywords" content="关键词">
+	<meta name="author" content="前端导航">
+	<link rel="shortcut icon" href="src/images/favicon.ico">
+	<link rel="stylesheet" href="src/styles/sass/index.css">
+	
+</head>
+<body ng-app="myApp" >
+	<div ng-include="'./src/templets/header.html'"></div>
+	<!--header   end-->
+	<div id="centent">
+		<div class="container">
+			<div class="sidebar">
+				<div ng-include="'./src/templets/sidebar.html'"></div>
+				<!-- sidebar  end -->
+			</div>
+
+			<div class="mainer">
+				<div ng-view></div>
+				<!-- mainer item  end -->
+				<div ng-include="'./src/templets/footer.html'"></div>
+				<!-- footer  end -->
+			</div>
+		</div>
+	</div>
+	
+
+
+	<script src="bulid/vendor.js"></script>
+	<script src="bulid/bundle.js"></script>
+
+</body>
+</html>

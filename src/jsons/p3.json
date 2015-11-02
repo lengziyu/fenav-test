@@ -1,0 +1,44 @@
+[
+	{
+	"contentPic" : "src/images/index/p1/group3/1.jpg",
+	"contentH3" : "Less",
+	"contentH5" : "LESS是一种动态样式语言，LESS 将 CSS 赋予了动态语言的特性，如 变量， 继承， 运算， 函数",
+	"contentUrl" : "http://lesscss.org/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group3/2.jpg",
+	"contentH3" : "Less 中文网",
+	"contentH5" : "Less 中文网，核心的中文API、教程、问题总汇",
+	"contentUrl" : "http://www.lesscss.net/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group3/3.jpg",
+	"contentH3" : "Less for Bootstrap",
+	"contentH5" : "Bootstrap的Less教程",
+	"contentUrl" : "http://www.bootcss.com/p/lesscss/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group3/4.jpg",
+	"contentH3" : "Less for W3cplus",
+	"contentH5" : "W3cplus的Less教程",
+	"contentUrl" : "http://www.w3cplus.com/css/less"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group3/5.jpg",
+	"contentH3" : "Sass",
+	"contentH5" : "SASS是最成熟的，稳定的，和在世界上强大的专业级的CSS扩展语言",
+	"contentUrl" : "http://sass-lang.com/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group3/6.jpg",
+	"contentH3" : "Sass 中文网",
+	"contentH5" : "Sass中文网致力于sass在中国的推广",
+	"contentUrl" : "http://www.sass.hk/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group3/7.jpg",
+	"contentH3" : "Stylus",
+	"contentH5" : "丰富的，动态的，强大的CSS预处理器",
+	"contentUrl" : "http://learnboost.github.io/stylus/"
+	}
+]

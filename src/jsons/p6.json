@@ -1,0 +1,39 @@
+[
+	{
+	"contentPic" : "src/images/index/p1/group6/1.jpg",
+	"contentH3" : "CreateJS",
+	"contentH5" : "基于HTML5的一套模块化的库和工具共同工作或独立使丰富的交互式内容的开放式Web技术",
+	"contentUrl" : "http://createjs.com/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group6/2.jpg",
+	"contentH3" : "PhaserJS",
+	"contentH5" : "PC端和移动端HTML5游戏框架 ",
+	"contentUrl" : "http://phaser.io/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group6/3.jpg",
+	"contentH3" : "ThreeJS",
+	"contentH5" : "制作HTML5的3D游戏引擎 ",
+	"contentUrl" : "http://threejs.org/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group6/4.jpg",
+	"contentH3" : "Cocos2d-x 中文网",
+	"contentH5" : "一个基于MIT协议的开源框架，用于构建游戏、应用程序和其他图形界面交互应用。可以让你在创建自己的多平台游戏时节省很多的时间",
+	"contentUrl" : "http://cn.cocos2d-x.org/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group6/5.jpg",
+	"contentH3" : "PixiJS",
+	"contentH5" : "一个二维的JavaScript渲染",
+	"contentUrl" : "https://github.com/pixijs/pixi.js"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group6/6.jpg",
+	"contentH3" : "ImpactJS",
+	"contentH5" : "创造更可怕的HTML5游戏敬畏的方式",
+	"contentUrl" : "http://impactjs.com/"
+	}
+	
+]

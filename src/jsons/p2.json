@@ -1,0 +1,27 @@
+[
+
+	{
+	"contentPic" : "src/images/index/p1/group2/2.jpg",
+	"contentH3" : "Browserify",
+	"contentH5" : "browserify让你需要（'modules”）在浏览器中捆绑了你所有的依赖",
+	"contentUrl" : "http://substack.net/browserify/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group2/3.jpg",
+	"contentH3" : "Duo",
+	"contentH5" : "前端的下一代包管理器",
+	"contentUrl" : "http://duojs.org/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group2/4.jpg",
+	"contentH3" : "RequireJS",
+	"contentH5" : "一个JavaScript模块加载器",
+	"contentUrl" : "http://requirejs.org/"
+	},
+	{
+	"contentPic" : "src/images/index/p1/group2/5.jpg",
+	"contentH3" : "SeaJS",
+	"contentH5" : "模块化开发的极其简单的经验",
+	"contentUrl" : "http://seajs.org/"
+	}
+]
